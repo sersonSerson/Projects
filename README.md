@@ -4,4 +4,4 @@
 
 1.2. IntentRecognitionAirlines - classification task - to understand user's intent and generate respective response.
 
-1.3. IntentRecognitionChatbpot - chatbot that undestands user's intent from natural language query and responses with predefined answers.
+1.3. IntentRecognitionChatbot - chatbot that undestands user's intent from natural language query and responses with predefined answers.
