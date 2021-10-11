@@ -5,3 +5,6 @@
 1.2. IntentRecognitionAirlines - classification task - to understand user's intent and generate respective response.
 
 1.3. IntentRecognitionChatbot - chatbot that undestands user's intent from natural language query and responses with predefined answers.
+
+1.4. LSTM calculator - one function calculator. Works based on LSTM Neural 
+Network that predicts sequence on result based on sequence of calculation. 
