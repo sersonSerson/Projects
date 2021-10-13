@@ -8,3 +8,9 @@
 
 1.4. LSTM calculator - one function calculator. Works based on LSTM Neural 
 Network that predicts sequence on result based on sequence of calculation. 
+
+1.5. LSTM calculator - one function calculator. Works based on LSTM Neural 
+Network that predicts sequence on result based on sequence of calculation. 
+
+1.6. Sequence prediction - predict sequences of numbers with encoder-decoder 
+architecture.
