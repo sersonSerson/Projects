@@ -14,3 +14,6 @@ Network that predicts sequence on result based on sequence of calculation.
 
 1.6. Sequence prediction - predict sequences of numbers with encoder-decoder 
 architecture.
+
+1.7. Dialog-based chatbot - encoder-decoder structure Neural Network for 
+chatbot.
