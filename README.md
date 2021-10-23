@@ -9,11 +9,12 @@
 1.4. LSTM calculator - one function calculator. Works based on LSTM Neural 
 Network that predicts sequence on result based on sequence of calculation. 
 
-1.5. LSTM calculator - one function calculator. Works based on LSTM Neural 
-Network that predicts sequence on result based on sequence of calculation. 
-
-1.6. Sequence prediction - predict sequences of numbers with encoder-decoder 
+1.5. Sequence prediction - predict sequences of numbers with encoder-decoder 
 architecture.
 
-1.7. Dialog-based chatbot - encoder-decoder structure Neural Network for 
+1.6. Dialog-based chatbot - encoder-decoder structure Neural Network for 
 chatbot.
+
+### 2. Image recognition - projects connected with Convolutional Neural Networks
+2.1. Animal recognition - trains a Convolutional Neural Network to decide 
+what animal is on the picture.
