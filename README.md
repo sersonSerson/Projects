@@ -18,3 +18,13 @@ chatbot.
 ### 2. Image recognition - projects connected with Convolutional Neural Networks
 2.1. Animal recognition - trains a Convolutional Neural Network to decide 
 what animal is on the picture.
+
+### 3. Time series - projects connected with Time Series prediction
+3.1. AirlinePassengersSARIMAX - predict the number of arline passengers using 
+SARIMAX approach.
+
+### 4. Regression - projects connected with number prediction (regressions).
+4.1. 
+
+### 5. Classification - projects connected with class prediction.
+5.1. 
