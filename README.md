@@ -22,6 +22,9 @@ what animal is on the picture.
 ### 3. Time series - projects connected with Time Series prediction
 3.1. AirlinePassengersSARIMAX - predict the number of arline passengers using 
 SARIMAX approach.
+3.2. AirlinePassengersLSTM - predict the number of arline passengers using 
+Neural Networks (LSTM) approach.
+
 
 ### 4. Regression - projects connected with number prediction (regressions).
 4.1. 
