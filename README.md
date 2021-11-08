@@ -30,4 +30,10 @@ Neural Networks (LSTM) approach.
 4.1. 
 
 ### 5. Classification - projects connected with class prediction.
-5.1. 
+5.1. Breast cancer - predict the type of brest tumor.
+
+https://nbviewer.org/github/sersonSerson/Projects/blob/master/Classification/BreastCancer/BreastCancer.ipynb
+
+5.2. Titanic - predict the survival of a person in a Titanic crash.
+
+https://nbviewer.org/github/sersonSerson/Projects/blob/master/Classification/Titanic/01%20EDA.ipynb
