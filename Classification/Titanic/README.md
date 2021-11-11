@@ -1,51 +1,39 @@
-<p align="left">
-  <img src="https://c4.wallpaperflare.com/wallpaper/378/267/803/titanic-ship-cruise-ship-drawing-night-hd-wallpaper-preview.jpg" width="200" title="hover text">
-</p>
-<h1 style="text-align:center; color:#01872A; font-size:30px;background:#daf2e1;border-radius: 20px;">Titanic.</h1>
+# Projects structure:
+### 1. Natural language - projects connected with Natural Language Processing
+1.1. NeuroSholohov - trains a Neural Network based on 'Tihii Don' novel and tries to write new text to imitate the style of Mihail Sholohov.
 
-# Goal: practice using Scikit learn library for classification tasks.
-## Size: Large (1389 lines).
+1.2. IntentRecognitionAirlines - classification task - to understand user's intent and generate respective response.
 
-# 1. Problem definition
-## How well can we predict the survivors of Titanic sinking?
+1.3. IntentRecognitionChatbot - chatbot that undestands user's intent from natural language query and responses with predefined answers.
 
-# 2. Data
-## Titanic dataset from Kaggle. Contains:
-1. Train.csv - data for 891 of 1309 passengers with info about their survival. 
-   This is the training set for our models.
-2. Test.csv - data for 418 of 1309 passengers with no info about survival. 
-   This data will be used as a test set. Need to submit data to Kaggle to get the
-   score of the prediction.
+1.4. LSTM calculator - one function calculator. Works based on LSTM Neural 
+Network that predicts sequence on result based on sequence of calculation. 
 
-Source: https://www.kaggle.com/c/titanic
+1.5. Sequence prediction - predict sequences of numbers with encoder-decoder 
+architecture.
 
-# 3. Evaluation
-## Accuracy score - number of correctly predicted passengers divided by total number of passengers.
+1.6. Dialog-based chatbot - encoder-decoder structure Neural Network for 
+chatbot.
 
-# 4. Features:
-| №   | Feature       | Description                                                              |
-| --- |:-------------:| ------------------------------------------------------------------------:|
-|1    |**Name**       | Name of a passenger.                                                     |
-|2    |**Pclass**     | Ticket class of a passenger. \nThird is the lowest, first is the highest.|
-|3    |**Age**        | Age of a passenger in years.                                             |
-|4    |**Fare**       | Price of a ticket.                                                       |
-|5    |**Parch**      | Number of parents and children of a passenger aboard.                    |
-|6    |**SibSp**      | Number of siblings and spouses of a passenger aboard.                    |
-|7    |**Cabin**      | Number of a cabin occupied by passenger.                                 |
-|8    |**Ticket**     | Ticket number of a passenger.                                            |
-|9    |**Embarked**   | Port of embarkment. C = Cherbourg, Q = Queenstown, S = Southampton       |
-|10   |**Survived**   | Whether a passenger survived.                                            |
+### 2. Image recognition - projects connected with Convolutional Neural Networks
+2.1. Animal recognition - trains a Convolutional Neural Network to decide 
+what animal is on the picture.
 
-# 5. This was a Kaggle competition.
-The main target is to improve accuracy. Some decisions can seem to be a little 
-complex or useless, but it still gave score improvement. 
+### 3. Time series - projects connected with Time Series prediction
+3.1. AirlinePassengersSARIMAX - predict the number of arline passengers using 
+SARIMAX approach.
+3.2. AirlinePassengersLSTM - predict the number of arline passengers using 
+Neural Networks (LSTM) approach.
 
-# 6. Structure:
-Contains 3 parts:
 
-1. <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/Classification/Titanic/01%20EDA.ipynb">EDA</A>
-2. <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/Classification/Titanic/02%20Feature%20Engineering.ipynb">Feature engineering</A>
-3. <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/Classification/Titanic/03%20Model%20selection%20and%20Ensembles.ipynb">Model selection</A>
+### 4. Regression - projects connected with number prediction (regressions).
+4.1. 
 
-# 7. Results.
-Score of 81.3% allowed to finish in top 2% of the contenders.
+### 5. Classification - projects connected with class prediction.
+5.1. Breast cancer - predict the type of brest tumor.
+
+https://nbviewer.org/github/sersonSerson/Projects/blob/master/Classification/BreastCancer/BreastCancer.ipynb
+
+5.2. Titanic - predict the survival of a person in a Titanic crash.
+
+https://nbviewer.org/github/sersonSerson/Projects/blob/master/Classification/Titanic/01%20EDA.ipynb
