@@ -4,28 +4,29 @@
 
 <h1 style="text-align:center; color:#01872A; font-size:30px;background:#daf2e1;border-radius: 20px;">LSTM calculator.</h1>
 
-# Goal: encoder-decoder architecture training and understanding.
+# Goal: intent recognition and natural language processing training.
 ### Size: Small (220 lines).
 
 ## 1. Problem definition
 
-Create a Neural Network that will make sequence-to-sequence predictions in 
-form of numbers multiplication.
+Create a chatbot that will understand intent of the user text and give back 
+one of the predefined answers.
 
 ## 2. Data.
-### The data will be created manually following the logic:
-1. Step 1: create a dataset ('3*5' = '15')
-2. Step 2: divide into the symbols (['3', '*', '5'...)
-3. Step 3: encode the symbols ([3, 12, 5, ..])
-4. Step 4: convert into one-hot encoded format ([0, 0, 0, 1, ...])
-5. Step 5: create LSTM model and fit it.
-6. Step 6. Make a prediction.
+### Chatbots: Intent Recognition Dataset from Kaggle.
+Source: https://www.kaggle.com/elvinagammed/chatbots-intent-recognition-dataset/
+
+Data is in form of .json with key fields:
+
+| №    | Feature       | Description|
+|------|:-------------:|-------------------------------------------------------:|
+|1     |**intent**     |Name of the user's intent.                              |
+|2     |**text**       |Samples of the text that is appropriate for this intent.|
+|3     |**responses**   |Appropriate responses for given intent.                |
 
 ## 3. Evaluation
 
-### The evaluation metric chosen is Accuracy, a model should correctly predict the output value.
-
-<img src="https://latex.codecogs.com/gif.latex?Accuracy%20%3D%20%5Cfrac%7BTrue%5C%20Positives%20&plus;%20True%5C%20Negatives%7D%7BTrue%5C%20Positives%20&plus;%20True%5C%20Negatives%20&plus;%20False%5C%20Positives%20&plus;%20False%5C%20Negatives%7D"/> 
+### The output is evaluated by human to check its consciousness.
 
 ## 4. Structure:
 
@@ -34,10 +35,12 @@ Contains <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/
 2. Preprocess data.
 3. Create model.
 4. Generate predictions.
-5. [Create service functions for chatbot.
+5. Create service functions for chatbot.
 
-The chatbot itself is located in Chatbot.py file.
+The chatbot itself is located in [Chatbot.py](Chatbot.py) file.
 
 ## 6. Results.
 ### Generated a chatbot that gives reasonable answers.
+Sample: 
+
 ![Alt text](chatbot.gif)
