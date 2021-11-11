@@ -25,7 +25,7 @@ Source: https://www.kaggle.com/andreazzini/international-airline-passengers/
 # 4. Features:
 
 | №    | Feature                             | Description|
-|------|:---------------------------------- :| ------------------------------------------------------------------------|
+|------|:----------------------------------:|------------------------------------------------------------------------:|
 |1     |**Month**                            |Month and year of the sample.|
 |2     |**Monthly totals in thousands**      |Thousands of passengers used airlines this month.|
 
@@ -46,5 +46,5 @@ These notebooks have the same first chapters:
 
 # 6. Results.
 ## Achieve following results:
-1. 30.129 RMSE error for LSTM model.
+1. 30.13 RMSE error for LSTM model.
 2. 17.18 RMSE error for SARIMAX model.
