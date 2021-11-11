@@ -44,4 +44,4 @@ The chatbot itself is located in [Chatbot.py](Chatbot.py) file.
 ### Generated a chatbot that gives reasonable answers.
 Sample: 
 
-![Alt text](chatbot.gif)
+![Alt text](Chatbot.gif)
