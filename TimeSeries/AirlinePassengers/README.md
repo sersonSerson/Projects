@@ -1,55 +1,49 @@
 <p align="left">
-   <img src="https://image.freepik.com/free-photo/physician-noting-down-symptoms-patient_53876-63308.jpg"width="200">
+   <img src="https://cdn.pixabay.com/photo/2016/04/30/08/35/aircraft-1362586_960_720.jpg"width="200">
 </p>
 
-<h1 style="text-align:center; color:#01872A; font-size:30px;background:#daf2e1;border-radius: 20px;">Breast cancer.</h1>
+<h1 style="text-align:center; color:#01872A; font-size:30px;background:#daf2e1;border-radius: 20px;">Airline passengers.</h1>
 
 # 1. Problem definition
 
-## Predict whether the tumor is benign or malignant given its features.
+## Predict the number of airline passengers given the historical data.
 
 # 2. Data
-## Breast Cancer Wisconsin dataset from Kaggle. Contains:
+## International Airline Passengers Dataset from Kaggle. Contains:
 
-* Data.csv - data for 570 tumors with labels: Benign(B) or Malignant(M).
+* international-airline-passengers.csv - data about number of airlilne 
+  passengers form January 1949 to December 1960 for each month in thousands.
 
-Source: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/
+Source: https://www.kaggle.com/andreazzini/international-airline-passengers/
 
 # 3. Evaluation
 
-## The evaluation metric chosen is Recall, as Recall shows how good we can identify positive (M(malignant)) cases and immediately start responding to such serious diagnosis.
+## The evaluation metric chosen is RMSE, which penalizes model for highly inaccurate predictions.
 
-<img src="https://latex.codecogs.com/gif.latex?%5C%20%5Chuge%7BRecall%7D%20%3D%20%5Cfrac%20%7BTrue%5C%20Positives%7D%20%7BTrue%5C%20Positives%5C%20&plus;%5C%20False%5C%20Negatives%7D"/> 
+<img src="https://latex.codecogs.com/gif.latex?%5Chuge%20RMSE%20%3D%20%5Csqrt%7B%5Cfrac%7B1%7D%7Bn%7D%5Csum%5Climits_%7Bi%3D1%7D%5E%7Bn%7D%20%28y_i%20-%20%5Chat%7By%7D_i%29%5E2%7D"/> 
 
 # 4. Features:
 
-Nice and visual description of different features can be found at:
-
-https://minds.wisconsin.edu/bitstream/handle/1793/59692/TR1131.pdf;jsessionid=37F560BEC585AC4FEFEA87C35D57B340
-
-| №    | Feature              
-|------|:-------------------: 
-|1     |**Radius**            
-|2     |**Texture**           
-|3     |**Perimeter**         
-|4     |**area**              
-|5     |**smoothness**        
-|6     |**compactness**       
-|7     |**concavity**         
-|8     |**concave points**    
-|9     |**symmetry**          
-|10    |**fractal dimension** 
-
-The mean, standard error and "worst" or largest (mean of the three
-largest values) of these features were computed for each image,
-resulting in 30 features. 
+| №    | Feature                             | Description|
+|------|:---------------------------------- :| ------------------------------------------------------------------------|
+|1     |**Month**                            |Month and year of the sample.|
+|2     |**Monthly totals in thousands**      |Thousands of passengers used airlines this month.|
 
 # 5. Structure:
-Contains one notebook with main chapters:
-1. EDA.
-2. Feature engineering.
-3. Model selection and hyperparameter tuning.
-4. Results analysis.
+Contains two notebooks:
+1. LSTM Airline Passengers  - predict the number of passengers with Neural 
+   Networks (LSTM model). Model was used to predict 3 years at once.
+   Was not refitted with new data each month.
+   
+2. SARIMAX Airline Passengers - predict the number of passengers with 
+   classic SARIMAX approach. Model was used to predict one month at once,
+   retraining after each month (refitting with new data).
+   
+These notebooks have the same first chapters: 
+1. EDA
+2. Test harness
 
 # 6. Results.
-## Achieved Recall of 0.97.
+## Achieve following results:
+1. 30.129 RMSE error for LSTM model.
+2. 17.18 RMSE error for SARIMAX model.
