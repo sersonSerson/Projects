@@ -29,7 +29,6 @@ Source: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/
 <img src="https://latex.codecogs.com/gif.latex?%5Chuge%20RMSLE%20%3D%20%5Csqrt%7B%5Cfrac%7B1%7D%7Bn%7D%5Csum%5Climits_%7Bi%3D1%7D%5E%7Bn%7D%20%28%5Clog%28y_i%20&plus;%201%29%20-%20log%28%5Chat%7By%7D_i&plus;%201%29%29%5E2%7D"/> 
 
 # 4. Features:
-Here's a brief version of what you'll find in the data description file.
 
 | №    | Feature       | Description|
 |------|:-------------:| ------------------------------------------------------------------------:|
@@ -121,9 +120,8 @@ complex or useless, but it still gave score improvement.
 
 # 6. Structure:
 1. EDA.
-1. ANN prediction
-2. Ridge regression prediction.
-3. Another ANN prediction.
+2. ANN prediction
+3. Ridge regression prediction.
 4. Ensemble prediction.
 
 
