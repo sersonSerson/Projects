@@ -24,10 +24,10 @@ These sequences will be encoded in one-hot encoding manner.
 ## 4. Structure:
 
 Contains <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/NaturalLanguage/NeuroSholohov/NeuroSholohov.ipynb">one notebook</A> with main chapters:
-2. Load data.
-3. Preprocess data.
-4. Create and train model.
- 5. Generate text.
+1. Load data.
+2. Preprocess data.
+3. Create and train model.
+4. Generate text.
 
 ## 6. Results.
 ## Generated quite conscious text with little mistakes. Style is close to authors.
