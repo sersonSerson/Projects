@@ -9,6 +9,10 @@
 ## 1.1. Breast cancer - predict the type of brest tumor.
 ### Size: Medium (645 lines).
 https://github.com/sersonSerson/Projects/tree/master/Classification/BreastCancer
+<br />
+<br />
+<br />
+<br />
 
 <p align="left">
   <img src="https://c4.wallpaperflare.com/wallpaper/378/267/803/titanic-ship-cruise-ship-drawing-night-hd-wallpaper-preview.jpg" width="200" title="hover text">
@@ -19,6 +23,10 @@ https://github.com/sersonSerson/Projects/tree/master/Classification/BreastCancer
 https://github.com/sersonSerson/Projects/tree/master/Classification/Titanic
 
 # 2. Image recognition - projects connected with Convolutional Neural Networks
+<br />
+<br />
+<br />
+<br />
 <p align="left">
    <img src="https://image.freepik.com/free-vector/group-cute-animals-cartoon-character-isolated_1308-46747.jpg"width="200">
 </p>
@@ -29,7 +37,10 @@ https://github.com/sersonSerson/Projects/tree/master/ImageRecognition/AnimalReco
 
 
 # 3. Natural language - projects connected with Natural Language Processing
-
+<br />
+<br />
+<br />
+<br />
 <p align="left">
    <img src="https://img4.labirint.ru/rc/b560062516ee23c7c444a55affb91068/220x340/books52/511072/cover.jpg?1567603787"width="200">
 </p>
