@@ -37,6 +37,8 @@ Contains <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/
 
 The chatbot itself is located in [Chatbot.py](Chatbot.py) file.
 
+The notebook was created using **Google Collab**.
+
 ## 6. Results.
 ### Generated a chatbot that gives reasonable answers.
 Sample: 
