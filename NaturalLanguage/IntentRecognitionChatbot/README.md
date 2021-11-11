@@ -2,7 +2,8 @@
    <img src="https://image.freepik.com/free-photo/robot-doing-peace-sign_1048-3527.jpg"width="200">
 </p>
 
-<h1 style="text-align:center; color:#01872A; font-size:30px;background:#daf2e1;border-radius: 20px;">LSTM calculator.</h1>
+<h1 style="text-align:center; color:#01872A; font-size:30px;
+background:#daf2e1;border-radius: 20px;">Intent recognition chatbot.</h1>
 
 # Goal: intent recognition and natural language processing training.
 ### Size: Small (220 lines).
