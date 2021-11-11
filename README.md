@@ -1,6 +1,7 @@
 # Projects structure:
 
 # 1. Classification - projects connected with class prediction.
+
 <p align="left">
    <img src="https://image.freepik.com/free-photo/physician-noting-down-symptoms-patient_53876-63308.jpg"width="200">
 </p>
@@ -12,8 +13,6 @@ https://github.com/sersonSerson/Projects/tree/master/Classification/BreastCancer
 <p align="left">
   <img src="https://c4.wallpaperflare.com/wallpaper/378/267/803/titanic-ship-cruise-ship-drawing-night-hd-wallpaper-preview.jpg" width="200" title="hover text">
 </p>
-   
-   
 
 ## 1.2. Titanic - predict the survival of a person in a Titanic crash.
 ### Size: Large (1389 lines).
