@@ -5,7 +5,7 @@
 <h1 style="text-align:center; color:#01872A; font-size:30px;background:#daf2e1;border-radius: 20px;">LSTM calculator.</h1>
 
 # Goal: encoder-decoder architecture training and understanding.
-# Size: Small (220 lines).
+### Size: Small (220 lines).
 
 ## 1. Problem definition
 
@@ -23,7 +23,7 @@ form of numbers multiplication.
 
 ## 3. Evaluation
 
-## The evaluation metric chosen is Accuracy, a model should correctly predict the output value.
+### The evaluation metric chosen is Accuracy, a model should correctly predict the output value.
 
 <img src="https://latex.codecogs.com/gif.latex?Accuracy%20%3D%20%5Cfrac%7BTrue%5C%20Positives%20&plus;%20True%5C%20Negatives%7D%7BTrue%5C%20Positives%20&plus;%20True%5C%20Negatives%20&plus;%20False%5C%20Positives%20&plus;%20False%5C%20Negatives%7D"/> 
 
@@ -36,4 +36,4 @@ Contains <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/
 4. Make a prediction and check the results.
 
 ## 6. Results.
-## Achieved Accuracy of 1, as expected for such a simple task.
+### Achieved Accuracy of 1, as expected for such a simple task.
