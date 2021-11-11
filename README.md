@@ -28,6 +28,11 @@ https://github.com/sersonSerson/Projects/tree/master/Classification/BreastCancer
 ### Size: Large (1389 lines).
 https://github.com/sersonSerson/Projects/tree/master/Classification/Titanic
 
+<br />
+<br />
+<br />
+<br />
+
 # 2. Image recognition - projects connected with Convolutional Neural Networks
 
 <br />
@@ -43,6 +48,10 @@ https://github.com/sersonSerson/Projects/tree/master/Classification/Titanic
 ### Size: Medium (473 lines).
 https://github.com/sersonSerson/Projects/tree/master/ImageRecognition/AnimalRecognition
 
+<br />
+<br />
+<br />
+<br />
 
 # 3. Natural language - projects connected with Natural Language Processing
 
@@ -125,6 +134,11 @@ https://github.com/sersonSerson/Projects/tree/master/NaturalLanguage/SequencePre
 ### Size: Medium (473 lines).
 https://github.com/sersonSerson/Projects/tree/master/NaturalLanguage/DialogBasedChatbot
 
+<br />
+<br />
+<br />
+<br />
+
 # 4. Regression - projects connected with number prediction.
 
 <br />
@@ -140,6 +154,10 @@ https://github.com/sersonSerson/Projects/tree/master/NaturalLanguage/DialogBased
 ### Size: Large (1910 lines).
 https://github.com/sersonSerson/Projects/tree/master/Regression/HousePrice
 
+<br />
+<br />
+<br />
+<br />
 
 # 5. Time series - projects connected with Time Series prediction.
 
