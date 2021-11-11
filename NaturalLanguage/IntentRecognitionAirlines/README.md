@@ -15,8 +15,6 @@ Recognize user's actual intent given user's natural language query.
 ### ATIS Airline Travel Information System Dataset from Kaggle.
 Source: https://www.kaggle.com/hassanamin/atis-airlinetravelinformationsystem/
 
-Data is in form of .json with key fields:
-
 | №    | Feature       | Description|
 |------|:-------------:|------------------------------------------------------:|
 |1     |**Question**   |User text with query about airlines.                   |
@@ -40,4 +38,4 @@ Contains <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/
 8. Metrics analysis.
 
 ## 6. Results.
-### Intent recognition accuracy of 0.9925.
+### Achieved intent recognition accuracy of 0.9925.
