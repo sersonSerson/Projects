@@ -1,39 +1,46 @@
-# Projects structure:
-### 1. Natural language - projects connected with Natural Language Processing
-1.1. NeuroSholohov - trains a Neural Network based on 'Tihii Don' novel and tries to write new text to imitate the style of Mihail Sholohov.
+<p align="left">
+   <img src="https://image.freepik.com/free-vector/surprised-talking-robot-speech-bubbles-chatbot-dialog-online-lesson_74855-103.jpg"width="200">
+</p>
 
-1.2. IntentRecognitionAirlines - classification task - to understand user's intent and generate respective response.
+<h1 style="text-align:center; color:#01872A; font-size:30px;background:#daf2e1;border-radius: 20px;">Dialog based chatbot.</h1>
 
-1.3. IntentRecognitionChatbot - chatbot that undestands user's intent from natural language query and responses with predefined answers.
+# Goal: Practice Encoder-Decoder structure and Natural Language Processing.
+### Size: Medium (473 lines).
 
-1.4. LSTM calculator - one function calculator. Works based on LSTM Neural 
-Network that predicts sequence on result based on sequence of calculation. 
+## 1. Problem definition
 
-1.5. Sequence prediction - predict sequences of numbers with encoder-decoder 
-architecture.
+Create a chatbot that will learn on dialogs and will generate answers to 
+user text word by word.
 
-1.6. Dialog-based chatbot - encoder-decoder structure Neural Network for 
-chatbot.
+## 2. Data.
+### Dataset for chatbot from Kaggle.
+Source: https://www.kaggle.com/grafstor/simple-dialogs-for-chatbot/
 
-### 2. Image recognition - projects connected with Convolutional Neural Networks
-2.1. Animal recognition - trains a Convolutional Neural Network to decide 
-what animal is on the picture.
+Data contains asked questions and given answers appropriate to a question.
 
-### 3. Time series - projects connected with Time Series prediction
-3.1. AirlinePassengersSARIMAX - predict the number of arline passengers using 
-SARIMAX approach.
-3.2. AirlinePassengersLSTM - predict the number of arline passengers using 
-Neural Networks (LSTM) approach.
+| №    | Feature       | Description|
+|------|:-------------:|-------------------------------------------------------:|
+|1     |**Question**   |Question asked in dialogue.                             |
+|2     |**Answer**     |Answer given to the question.|
 
+## 3. Evaluation
 
-### 4. Regression - projects connected with number prediction (regressions).
-4.1. 
+### The output is evaluated by human to check its consciousness.
 
-### 5. Classification - projects connected with class prediction.
-5.1. Breast cancer - predict the type of brest tumor.
+## 4. Structure:
 
-https://nbviewer.org/github/sersonSerson/Projects/blob/master/Classification/BreastCancer/BreastCancer.ipynb
+Contains <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/NaturalLanguage/DialogBasedChatbot/DialogBasedChatbot.ipynb">one notebook</A> with main chapters:
+1. Preprocessing and normalization.
+2. Prepare data for Tensorflow.
+3. Create encoder-decoder models.
+4. Check the work of a model.
 
-5.2. Titanic - predict the survival of a person in a Titanic crash.
+The chatbot itself is located in [Chatbot.py](Chatbot.py) file.
 
-https://nbviewer.org/github/sersonSerson/Projects/blob/master/Classification/Titanic/01%20EDA.ipynb
+The notebook was created using **Google Collab**.
+
+## 6. Results.
+### Generated a chatbot that gives reasonable answers.
+Sample: 
+
+![Alt text](Chatbot.GIF)
