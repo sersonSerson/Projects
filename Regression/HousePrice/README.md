@@ -116,7 +116,7 @@ Here's a brief version of what you'll find in the data description file.
 
 
 # 5. This was a Kaggle competition.
-The main target is to improve accuracy. Some decisions can seem to be a little 
+The main target is to decrease error. Some decisions can seem to be a little 
 complex or useless, but it still gave score improvement. 
 
 # 6. Structure:
