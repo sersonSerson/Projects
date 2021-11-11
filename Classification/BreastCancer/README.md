@@ -45,6 +45,7 @@ largest values) of these features were computed for each image,
 resulting in 30 features. 
 
 # 5. Structure:
+<A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/Classification/BreastCancer/BreastCancer.ipynb">one notebook</A> 
 Contains one notebook with main chapters:
 1. EDA.
 2. Feature engineering.
