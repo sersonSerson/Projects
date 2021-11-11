@@ -2,6 +2,11 @@
 
 # 1. Classification - projects connected with class prediction.
 
+<br />
+<br />
+<br />
+<br />
+
 <p align="left">
    <img src="https://image.freepik.com/free-photo/physician-noting-down-symptoms-patient_53876-63308.jpg"width="200">
 </p>
@@ -9,6 +14,7 @@
 ## 1.1. Breast cancer - predict the type of brest tumor.
 ### Size: Medium (645 lines).
 https://github.com/sersonSerson/Projects/tree/master/Classification/BreastCancer
+
 <br />
 <br />
 <br />
@@ -23,10 +29,12 @@ https://github.com/sersonSerson/Projects/tree/master/Classification/BreastCancer
 https://github.com/sersonSerson/Projects/tree/master/Classification/Titanic
 
 # 2. Image recognition - projects connected with Convolutional Neural Networks
+
 <br />
 <br />
 <br />
 <br />
+
 <p align="left">
    <img src="https://image.freepik.com/free-vector/group-cute-animals-cartoon-character-isolated_1308-46747.jpg"width="200">
 </p>
@@ -37,10 +45,12 @@ https://github.com/sersonSerson/Projects/tree/master/ImageRecognition/AnimalReco
 
 
 # 3. Natural language - projects connected with Natural Language Processing
+
 <br />
 <br />
 <br />
 <br />
+
 <p align="left">
    <img src="https://img4.labirint.ru/rc/b560062516ee23c7c444a55affb91068/220x340/books52/511072/cover.jpg?1567603787"width="200">
 </p>
@@ -48,6 +58,11 @@ https://github.com/sersonSerson/Projects/tree/master/ImageRecognition/AnimalReco
 ## 3.1. NeuroSholohov - trains a Neural Network based on 'Tihii Don' novel and tries to write new text to imitate the style of Mihail Sholohov.
 ### Size: Small (233 lines).
 https://github.com/sersonSerson/Projects/tree/master/NaturalLanguage/NeuroSholohov
+
+<br />
+<br />
+<br />
+<br />
 
 <p align="left">
    <img src="https://image.freepik.com/free-photo/portrait-smiling-businesswoman-showing-her-boarding-pass_107420-95785.jpg"width="200">
@@ -57,6 +72,11 @@ https://github.com/sersonSerson/Projects/tree/master/NaturalLanguage/NeuroSholoh
 ### Size: Medium (659 lines).
 https://github.com/sersonSerson/Projects/tree/master/NaturalLanguage/IntentRecognitionAirlines
 
+<br />
+<br />
+<br />
+<br />
+
 <p align="left">
    <img src="https://image.freepik.com/free-photo/robot-doing-peace-sign_1048-3527.jpg"width="200">
 </p>
@@ -65,15 +85,24 @@ https://github.com/sersonSerson/Projects/tree/master/NaturalLanguage/IntentRecog
 ### Size: Small (305 lines).
 https://github.com/sersonSerson/Projects/tree/master/NaturalLanguage/IntentRecognitionChatbot
 
+<br />
+<br />
+<br />
+<br />
+
 <p align="left">
    <img src="https://image.freepik.com/free-vector/realistic-calculator-isolated-white_153563-1.jpg"width="200">
 </p>
-
 
 ## 3.4. LSTM calculator - one function calculator. Works based on LSTM Neural 
 Network that predicts sequence on result based on sequence of calculation. 
 ### Size: Small (220 lines).
 https://github.com/sersonSerson/Projects/tree/master/NaturalLanguage/LSTMCalculator
+
+<br />
+<br />
+<br />
+<br />
 
 <p align="left">
    <img src="https://image.freepik.com/free-vector/write-missing-number-worksheet-education_71599-3881.jpg"width="200">
@@ -82,6 +111,11 @@ https://github.com/sersonSerson/Projects/tree/master/NaturalLanguage/LSTMCalcula
 ## 3.5. Sequence prediction - predict sequences of numbers with encoder-decoder architecture.
 ### Size: Small (189 lines).
 https://github.com/sersonSerson/Projects/tree/master/NaturalLanguage/SequencePrediction
+
+<br />
+<br />
+<br />
+<br />
 
 <p align="left">
    <img src="https://image.freepik.com/free-vector/surprised-talking-robot-speech-bubbles-chatbot-dialog-online-lesson_74855-103.jpg"width="200">
@@ -92,6 +126,12 @@ https://github.com/sersonSerson/Projects/tree/master/NaturalLanguage/SequencePre
 https://github.com/sersonSerson/Projects/tree/master/NaturalLanguage/DialogBasedChatbot
 
 # 4. Regression - projects connected with number prediction.
+
+<br />
+<br />
+<br />
+<br />
+
 <p align="left">
   <img src="http://www.clipartbest.com/cliparts/yio/LdA/yioLdA9eT.jpg" width="200" title="hover text">
 </p>
@@ -102,6 +142,12 @@ https://github.com/sersonSerson/Projects/tree/master/Regression/HousePrice
 
 
 # 5. Time series - projects connected with Time Series prediction.
+
+<br />
+<br />
+<br />
+<br />
+
 <p align="left">
    <img src="https://cdn.pixabay.com/photo/2016/04/30/08/35/aircraft-1362586_960_720.jpg"width="200">
 </p>
