@@ -3,6 +3,9 @@
 </p>
 <h1 style="text-align:center; color:#01872A; font-size:30px;background:#daf2e1;border-radius: 20px;">Animal recognition.</h1>
 
+# Goal: learn to use Convolutional Neural Networks with Tensorflow library.
+## Size: Medium (473 lines).
+
 # 1. Problem definition
 
 ## Identify animals on photos. Total 10 classes of animals:

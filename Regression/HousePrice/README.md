@@ -6,6 +6,9 @@
 
 <h1 style="text-align:center; color:#01872A; font-size:30px;background:#daf2e1;border-radius: 20px;">House Prices.</h1>
 
+# Goal: practice using scikit-learn and Tensorflow libraries for regression tasks.
+## Size: Large (1910 lines).
+
 # 1. Problem definition
 
 ## Predict the price of a house given its features like: area, number of rooms, area of land.
@@ -123,7 +126,6 @@ complex or useless, but it still gave score improvement.
 2. <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/Regression/HousePrice/02%20Scaled%20ANN%20predictions.ipynb">ANN prediction.</A>
 3. <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/Regression/HousePrice/03%20Ridge%20regression.ipynb">Ridge regression prediction.</A>
 4. <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/Regression/HousePrice/04%20Ensemble.ipynb">Ensemble prediction.</A>
-
 
 # 7. Results.
 ## Score of 0.11732 allowed to finish in top 3% of the contenders.

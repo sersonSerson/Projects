@@ -3,6 +3,9 @@
 </p>
 <h1 style="text-align:center; color:#01872A; font-size:30px;background:#daf2e1;border-radius: 20px;">Titanic.</h1>
 
+# Goal: practice using Scikit learn library for classification tasks.
+## Size: Large (1389 lines).
+
 # 1. Problem definition
 ## How well can we predict the survivors of Titanic sinking?
 

@@ -4,6 +4,9 @@
 
 <h1 style="text-align:center; color:#01872A; font-size:30px;background:#daf2e1;border-radius: 20px;">Breast cancer.</h1>
 
+# Goal: practice using Scikit learn library for classification tasks.
+## Size: Medium (645 lines).
+
 # 1. Problem definition
 
 ## Predict whether the tumor is benign or malignant given its features.

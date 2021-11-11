@@ -5,7 +5,7 @@
 <h1 style="text-align:center; color:#01872A; font-size:30px;background:#daf2e1;border-radius: 20px;">Sequence prediction.</h1>
 
 # Goal: encoder-decoder architecture training and understanding.
-# Size: Small.
+# Size: Small (189 lines).
 
 ## 1. Problem definition
 

@@ -4,6 +4,9 @@
 
 <h1 style="text-align:center; color:#01872A; font-size:30px;background:#daf2e1;border-radius: 20px;">Airline passengers.</h1>
 
+# Goal: learn to predict with time series with LSTM and SARIMAX.
+## Size: Large (1435 lines).
+
 # 1. Problem definition
 
 ## Predict the number of airline passengers given the historical data.
