@@ -24,8 +24,9 @@ Source: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/
 
 # 3. Evaluation
 
-## The evaluation metric is Root-Mean-Squared-Error (RMSE).
-<img src="https://latex.codecogs.com/gif.latex?RMSE%20%3D%20%5Csqrt%7B%5Cfrac%7B1%7D%7Bn%7D%5Csum%5Climits_%7Bi%3D1%7D%5E%7Bn%7D%20%28y_i%20-%20%5Chat%7By%7D_i%29%5E2%7D"/> 
+## The evaluation metric is Root Mean Squared Logaritmic Error (RMSLE).
+
+<img src="https://latex.codecogs.com/gif.latex?%5Chuge%20RMSLE%20%3D%20%5Csqrt%7B%5Cfrac%7B1%7D%7Bn%7D%5Csum%5Climits_%7Bi%3D1%7D%5E%7Bn%7D%20%28%5Clog%28y_i%20&plus;%201%29%20-%20log%28%5Chat%7By%7D_i&plus;%201%29%29%5E2%7D"/> 
 
 # 4. Features:
 Here's a brief version of what you'll find in the data description file.
@@ -127,4 +128,4 @@ complex or useless, but it still gave score improvement.
 
 
 # 7. Results.
-## Score of 0.11587 allowed to finish in top 3% of the contenders.
+## Score of 0.11732 allowed to finish in top 3% of the contenders.
