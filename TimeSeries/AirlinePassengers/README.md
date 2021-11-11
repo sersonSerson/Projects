@@ -2,7 +2,7 @@
    <img src="https://cdn.pixabay.com/photo/2016/04/30/08/35/aircraft-1362586_960_720.jpg"width="200">
 </p>
 
-<h1 style="text-align:center; color:#01872A; font-size:30px;background:#daf2e1;border-radius: 20px;">Breast cancer.</h1>
+<h1 style="text-align:center; color:#01872A; font-size:30px;background:#daf2e1;border-radius: 20px;">Airline passengers.</h1>
 
 # 1. Problem definition
 
