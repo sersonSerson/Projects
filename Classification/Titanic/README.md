@@ -41,8 +41,8 @@ complex or useless, but it still gave score improvement.
 Contains 3 parts:
 
 1. <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/Classification/Titanic/01%20EDA.ipynb">EDA</A>
-2. <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/Classification/Titanic/Titanic/02%20Feature%20Engineering.ipynb">Feature engineering</A>
-3. <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/Classification/Titanic/Titanic/03%20Model%20selection%20and%20Ensembles">Model selection</A>
+2. <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/Classification/Titanic/02%20Feature%20Engineering.ipynb">Feature engineering</A>
+3. <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/Classification/Titanic/03%20Model%20selection%20and%20Ensembles">Model selection</A>
 
 # 7. Results.
 Score of 81.3% allowed to finish in top 2% of the contenders.
