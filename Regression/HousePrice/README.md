@@ -121,7 +121,7 @@ complex or useless, but it still gave score improvement.
 
 # 6. Structure:
 1. <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/Regression/HousePrice/01%20EDA.ipynb">EDA.</A>
-2. <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/Regression/HousePrice/02%20Scaled%20ANN%20predictions.ipynb">ANN prediction.</A>
+2. <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/Regression/HousePrice/02%20ANN.ipynb">ANN prediction.</A>
 3. <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/Regression/HousePrice/03%20Ridge%20regression.ipynb">Ridge regression prediction.</A>
 4. <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/Regression/HousePrice/04%20Ensemble.ipynb">Ensemble prediction.</A>
 
