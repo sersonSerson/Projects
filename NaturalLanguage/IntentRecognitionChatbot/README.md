@@ -6,7 +6,7 @@
 background:#daf2e1;border-radius: 20px;">Intent recognition chatbot.</h1>
 
 # Goal: intent recognition and natural language processing training.
-### Size: Small (220 lines).
+### Size: Small (305 lines).
 
 ## 1. Problem definition
 
@@ -31,7 +31,7 @@ Data is in form of .json with key fields:
 
 ## 4. Structure:
 
-Contains <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/NaturalLanguage/LSTMCalculator/LSTMcalculator.ipynb">one notebook</A> with main chapters:
+Contains <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/IntentRecognitionChatbot/IntentRecognitionChatbot.ipynb">one notebook</A> with main chapters:
 1. Load data.
 2. Preprocess data.
 3. Create model.
