@@ -34,7 +34,7 @@ Source: https://www.kaggle.com/andreazzini/international-airline-passengers/
 
 # 5. Structure:
 Contains two notebooks:
-1. <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/TimeSeries/LstmAirlinePassengers.ipynb">LSTM Airline Passengers</A> - 
+1. <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/TimeSeries/AirlinePassengers/LstmAirlinePassengers.ipynb">LSTM Airline Passengers</A> - 
    predict the number of passengers with Neural 
    Networks (LSTM model). Model was used to predict 3 years at once.
    Was not refitted with new data each month.
