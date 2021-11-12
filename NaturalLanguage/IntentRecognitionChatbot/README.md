@@ -31,7 +31,7 @@ Data is in form of .json with key fields:
 
 ## 4. Structure:
 
-Contains <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/IntentRecognitionChatbot/IntentRecognitionChatbot.ipynb">one notebook</A> with main chapters:
+Contains <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/NaturalLanguage/IntentRecognitionChatbot/IntentRecognitionChatbot.ipynb">one notebook</A> with main chapters:
 1. Load data.
 2. Preprocess data.
 3. Create model.
