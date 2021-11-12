@@ -1,7 +1,5 @@
 <p align="left">
-
-  <img src="http://www.clipartbest.com/cliparts/yio/LdA/yioLdA9eT.jpg" width="200" title="hover text">
-
+  <img src="https://github.com/sersonSerson/Projects/blob/master/Regression/HousePrice/data/HouseForSale.jpg?raw=true" width="200" title="hover text">
 </p>
 
 <h1 style="text-align:center; color:#01872A; font-size:30px;background:#daf2e1;border-radius: 20px;">House Prices.</h1>
