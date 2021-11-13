@@ -93,7 +93,7 @@
     <td>Large (1910 lines)<br></td>
   </tr>
   <tr>
-    <td colspan="5">Time series</td>
+    <td colspan="5" align="center">Time series</td>
   </tr>
   <tr>
     <td>11</td>
