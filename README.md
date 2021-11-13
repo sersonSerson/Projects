@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td>2</td>
-    <td><img src="https://c4.wallpaperflare.com/wallpaper/378/267/803/titanic-ship-cruise-ship-drawing-night-hd-wallpaper-preview.jpg" alt="Animal recognition" width="200"></td>
+    <td><img src="https://c4.wallpaperflare.com/wallpaper/378/267/803/titanic-ship-cruise-ship-drawing-night-hd-wallpaper-preview.jpg" alt="Titanic" width="200"></td>
     <td><a href="https://github.com/sersonSerson/Projects/tree/master/Classification/Titanic"><font size="14">Titanic</font></a></td>
     <td>Predict the survival of a person in a Titanic crash</td>
     <td>Large (1389 lines)</td>
@@ -35,7 +35,6 @@
     <td><a href="https://github.com/sersonSerson/Projects/tree/master/ImageRecognition/AnimalRecognition"><font size="14">Animal recognition</font></a></td>
     <td>Decide what animal is on the picture</td>
     <td>Medium (473 lines)</td>
-    <td></td>
   </tr>
   <tr>
     <td colspan="5" align="center"><font size="24">Natural language</font></td>
