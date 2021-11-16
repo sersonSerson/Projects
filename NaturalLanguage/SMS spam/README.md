@@ -4,7 +4,7 @@
 <h1 style="text-align:center; color:#01872A; font-size:30px;background:#daf2e1;border-radius: 20px;">SMS spam.</h1>
 
 # Goal: Practice Pipelines, ColumnTransformer and scikit-learn tools for Natural Language Processing.
-## Size: **TODO** (**TODO** lines).
+## Size: Medium (910 lines).
 
 # 1. Problem definition
 ## How well can we predict whether the SMS is spam?
@@ -28,9 +28,13 @@ Source: https://www.kaggle.com/uciml/sms-spam-collection-dataset
                                       |
 
 # 5. Structure:
-**TODO**
-Contains <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/NaturalLanguage/IntentRecognitionAirlines/IntentRecognitionAirline.ipynb">one notebook</A> with main chapters:
+Contains <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/NaturalLanguage/SMS%20spam/SMS%20spam.ipynb">one notebook</A> with main chapters:
+1. EDA.
+2. Establish baseline.
+3. Preprocess data.
+4. Choose model.
+5. Analyze model mistakes.
 
 
 # 6. Results.
-Accuracy score of **TODO** allowed to finish in top 2% of the contenders.
+Accuracy score of over 99.3%.
