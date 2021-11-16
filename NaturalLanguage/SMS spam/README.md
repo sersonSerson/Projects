@@ -36,4 +36,4 @@ Contains <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/
 
 
 # 6. Results.
-Accuracy score of spam classification over 99.3%.
+Accuracy score of spam classification approx 99.2%.
