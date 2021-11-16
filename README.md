@@ -85,8 +85,7 @@
   <tr>
     <td>10</td>
     <td><img src=https://image.freepik.com/free-vector/new-message-concept-landing-page_52683-26980.jpg alt="SMS spam"width="200"></td>
-    <td><a href="https://github.com/sersonSerson/Projects/tree/master/NaturalLanguage/SMS%20spam">
-        <font size="14">SMS spam</font></a></td>
+    <td><a href="https://github.com/sersonSerson/Projects/tree/master/NaturalLanguage/SMS%20spam"><font size="14">SMS spam</font></a></td>
     <td>Predict if the message is spam.</td>
     <td>Medium<br>(910 lines)<br></td>
   </tr>
@@ -96,8 +95,7 @@
   <tr>
     <td>11</td>
     <td><img src="http://www.clipartbest.com/cliparts/yio/LdA/yioLdA9eT.jpg" alt="HousePrice" width="200"></td>
-    <td><a href="https://github.com/sersonSerson/Projects/tree/master/NaturalLanguage/DialogBasedChatbot">
-        <font size="14">House price</font></a></td>
+    <td><a href="https://github.com/sersonSerson/Projects/tree/master/NaturalLanguage/DialogBasedChatbot"><font size="14">House price</font></a></td>
     <td>Predict,the price of a house given its features.</td>
     <td>Large<br>(1910 lines)<br></td>
   </tr>
@@ -107,8 +105,7 @@
   <tr>
     <td>12</td>
     <td><img src="https://cdn.pixabay.com/photo/2016/04/30/08/35/aircraft-1362586_960_720.jpg" alt="AirlinePassengers" width="200"></td>
-    <td><a href="https://github.com/sersonSerson/Projects/tree/master/TimeSeries/AirlinePassengers">
-        <font size="14">AirlinePassengers</font></a></td>
+    <td><a href="https://github.com/sersonSerson/Projects/tree/master/TimeSeries/AirlinePassengers"><font size="14">AirlinePassengers</font></a></td>
     <td>Predict the number of arline passengers usingSARIMAX or LSTMapproaches.</td>
     <td>Large<br>(1435 lines)<br></td>
   </tr>

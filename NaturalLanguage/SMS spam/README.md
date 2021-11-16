@@ -25,7 +25,6 @@ Source: https://www.kaggle.com/uciml/sms-spam-collection-dataset
 | --- |:--------------:| -----------------------------------------------------:|
 |1    |**FullMessage** |SMS message.                                           |
 |2    |**Label**       | Class of the message: spam or ham (non-spam).         |
-                                      |
 
 # 5. Structure:
 Contains <A href="https://nbviewer.org/github/sersonSerson/Projects/blob/master/NaturalLanguage/SMS%20spam/SMS%20spam.ipynb">one notebook</A> with main chapters:
