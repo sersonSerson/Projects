@@ -95,7 +95,7 @@
   <tr>
     <td>11</td>
     <td><img src="http://www.clipartbest.com/cliparts/yio/LdA/yioLdA9eT.jpg" alt="HousePrice" width="200"></td>
-    <td><a href="https://github.com/sersonSerson/Projects/tree/master/NaturalLanguage/DialogBasedChatbot"><font size="14">House price</font></a></td>
+    <td><a href="https://github.com/sersonSerson/Projects/tree/master/Regression/HousePrice"><font size="14">House price</font></a></td>
     <td>Predict,the price of a house given its features.</td>
     <td>Large<br>(1910 lines)<br></td>
   </tr>
